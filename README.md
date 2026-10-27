@@ -84,8 +84,6 @@ Guided 160+ guests through a new check-in system, tested a booking system and co
 <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thafriff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=8A2BE2&text_color=e6edf3&ring_color=F97316" />
 <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thafriff&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=e6edf3" />
 
-<img alt="Contribution graph" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thafriff&bg_color=0d1117&color=F97316&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2&hide_border=true" />
-
 </div>
 
 ---
