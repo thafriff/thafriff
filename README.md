@@ -85,6 +85,7 @@ I also like working with **data**: taking messy numbers and turning them into so
 | Project | What it is | Tools |
 | :-- | :-- | :-- |
 | [**FYP: Data Engineering Chatbot**](https://github.com/thafriff/fyp-data-engineering-chatbot) | RAG chatbot that answers Data Engineering course questions from open-licensed course material. | Python, FAISS, LLMs, Streamlit |
+| [**WalkLens**](https://github.com/thafriff/walklens) | Prototype web app for safer walking in a township: hazards flagged from recorded walks on a map, fastest vs safest routes, and resident hazard reports. | HTML, JavaScript, Leaflet |
 | [**Sentiment Analysis: Nasi Lemak Burung Hantu**](https://github.com/thafriff/nasi-lemak-sentiment-analysis) | Classifies scraped Google Reviews as positive or negative. Random Forest scored best at 76.35%. | RapidMiner |
 | [**Student Performance Dashboard**](https://github.com/thafriff/student-performance-powerbi) | Interactive dashboard on what affects students' maths grades. | Power BI, Weka |
 | [**Student Dropout Prediction**](https://github.com/thafriff/Student-Success-and-Dropout-Prediction) | Neural network built from scratch to predict student dropout (team project). | Python, NumPy |
