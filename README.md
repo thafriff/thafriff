@@ -8,8 +8,8 @@
 
 <br/>
 
-[<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>](mailto:althafrifqi04@gmail.com)
-[<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>](https://www.linkedin.com/in/thaf-rif)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:althafrifqi04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaf-rif)
 
 </div>
 
