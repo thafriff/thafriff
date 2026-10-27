@@ -17,9 +17,30 @@
 
 ## About Me
 
-I'm a final-year Information Systems student at UiTM who got hooked on making computers answer questions. Right now that means **LLMs and retrieval-augmented generation**: my final year project is a chatbot that answers Data Engineering questions from real course material, and I spend a lot of time testing which embedding models and LLMs give the best answers.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Underneath that is a love of **data**. I enjoy cleaning messy datasets, finding the pattern in them, and turning it into a model or a dashboard someone can use.
+I **love AI**. LLMs, RAG chatbots and everything around them keep me curious, and I'm eager to keep learning and building with them.
+
+I also like working with **data**: taking messy numbers and turning them into something useful.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Meta](https://img.shields.io/badge/-Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<a href="https://github.com/thafriff"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="260" alt="coding animation" /></a>
+
+</td>
+</tr>
+</table>
 
 <table>
   <tr><td><b>Now</b></td><td>RAG chatbot for my final year project</td></tr>
