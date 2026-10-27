@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:althafrifqi04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaf-rif)
+[<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>](mailto:althafrifqi04@gmail.com)
+[<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>](https://www.linkedin.com/in/thaf-rif)
 
 </div>
 
@@ -23,15 +23,17 @@
 
 I **love AI**. LLMs, RAG chatbots and everything around them keep me curious, and I'm eager to keep learning and building with them.
 
-I also like working with **data**: taking messy numbers and turning them into something useful.
+For my final year project I'm building a chatbot that answers Data Engineering questions using retrieval-augmented generation. I build the pipeline that turns course material into searchable chunks, compare different embedding models, and test several LLMs on 100 questions to see which one answers best.
+
+I also like working with **data**: taking messy numbers and turning them into something useful. I've built dashboards, trained models to classify customer reviews, and predicted student dropout with a neural network.
 
 <br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Meta](https://img.shields.io/badge/-Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/-Llama-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/-Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" /></a>
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -43,38 +45,38 @@ I also like working with **data**: taking messy numbers and turning them into so
 </table>
 
 <table>
-  <tr><td><b>Now</b></td><td>RAG chatbot for my final year project</td></tr>
-  <tr><td><b>Comfortable with</b></td><td>Python, SQL, Power BI, RapidMiner, Weka</td></tr>
+  <tr><td><b>Now</b></td><td>Building a RAG chatbot for my final year project</td></tr>
+  <tr><td><b>Studying</b></td><td>Information Systems, Intelligent Systems Engineering</td></tr>
+  <tr><td><b>Comfortable with</b></td><td>Python, SQL, machine learning, LLMs and RAG, data analysis, Power BI</td></tr>
   <tr><td><b>Also done</b></td><td>Web forms, kiosk games, database systems</td></tr>
-  <tr><td><b>Looking for</b></td><td>Data / AI internship, 15 March to 18 June 2027</td></tr>
 </table>
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
 
-![LLM](https://img.shields.io/badge/LLM-LARGE%20LANGUAGE%20MODELS-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-RETRIEVAL%20AUGMENTED%20GENERATION-FF69B4?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-VECTOR%20SEARCH-0467DF?style=for-the-badge)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/LLM-LARGE%20LANGUAGE%20MODELS-8A2BE2?style=for-the-badge" alt="LLM" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/RAG-RETRIEVAL%20AUGMENTED%20GENERATION-FF69B4?style=for-the-badge" alt="RAG" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/FAISS-VECTOR%20SEARCH-0467DF?style=for-the-badge" alt="FAISS" /></a>
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/ORACLE%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/ORACLE%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
 
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![RapidMiner](https://img.shields.io/badge/RAPIDMINER-2C75B6?style=for-the-badge&logoColor=white)
-![Weka](https://img.shields.io/badge/WEKA-DATA%20MINING-336699?style=for-the-badge)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/RAPIDMINER-2C75B6?style=for-the-badge&logoColor=white" alt="RapidMiner" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/WEKA-DATA%20MINING-336699?style=for-the-badge" alt="Weka" /></a>
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/thafriff"><img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /></a>
 
 ---
 
@@ -103,16 +105,6 @@ Guided 160+ guests through a new check-in system, tested a booking system and co
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/thafriff?tab=repositories"><img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thafriff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=8A2BE2&text_color=e6edf3&ring_color=F97316" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thafriff&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=e6edf3" /></a>
-
-</div>
-
----
 
 <div align="center">
 
