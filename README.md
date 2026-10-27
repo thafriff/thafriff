@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Althaf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand" />
+# Hi, I'm Althaf <a href="https://github.com/thafriff"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand" /></a>
 
 <a href="https://github.com/thafriff">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=640&lines=LLMs+%C2%B7+RAG+%C2%B7+AI+chatbots;Data+analytics+%C2%B7+Machine+learning;Final-year+Information+Systems+student;Building+things+that+answer+questions" alt="Typing intro" />
@@ -15,13 +15,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🧠 **AI curious:** I love working with **LLMs** and **RAG**, and I'm building a chatbot that answers Data Engineering questions from real course material for my final year project.
-- 🔬 **Always comparing:** I benchmark embedding models and several LLMs on 100 test questions to see which one actually answers best.
-- 📊 **Data driven:** I clean, model and visualise data with **Python, SQL, RapidMiner, Weka and Power BI**.
-- 🛠️ **Builder:** I've also built web forms, kiosk games and database systems, so I can take an idea from data to a working app.
-- 🎓 **Final year** Information Systems (Intelligent Systems Engineering) student at UiTM, looking for an **internship from 15 March to 18 June 2027**.
+I'm a final-year Information Systems student at UiTM who got hooked on making computers answer questions. Right now that means **LLMs and retrieval-augmented generation**: my final year project is a chatbot that answers Data Engineering questions from real course material, and I spend a lot of time testing which embedding models and LLMs give the best answers.
+
+Underneath that is a love of **data**. I enjoy cleaning messy datasets, finding the pattern in them, and turning it into a model or a dashboard someone can use.
+
+<table>
+  <tr><td><b>Now</b></td><td>RAG chatbot for my final year project</td></tr>
+  <tr><td><b>Comfortable with</b></td><td>Python, SQL, Power BI, RapidMiner, Weka</td></tr>
+  <tr><td><b>Also done</b></td><td>Web forms, kiosk games, database systems</td></tr>
+  <tr><td><b>Looking for</b></td><td>Data / AI internship, 15 March to 18 June 2027</td></tr>
+</table>
 
 ---
 
@@ -81,8 +86,8 @@ Guided 160+ guests through a new check-in system, tested a booking system and co
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thafriff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=8A2BE2&text_color=e6edf3&ring_color=F97316" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thafriff&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=e6edf3" />
+<a href="https://github.com/thafriff?tab=repositories"><img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thafriff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=8A2BE2&text_color=e6edf3&ring_color=F97316" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thafriff&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=e6edf3" /></a>
 
 </div>
 
@@ -90,6 +95,6 @@ Guided 160+ guests through a new check-in system, tested a booking system and co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F97316,50:8A2BE2,100:0A66C2&animation=twinkling" width="100%" alt="" />
+<a href="https://github.com/thafriff"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F97316,50:8A2BE2,100:0A66C2&animation=twinkling" width="100%" alt="" /></a>
 
 </div>
