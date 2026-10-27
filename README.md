@@ -94,10 +94,7 @@ I also like working with **data**: taking messy numbers and turning them into so
 
 ---
 
-## 🎓 Experience and Education
-
-**Frontdesk Sdn. Bhd.** · Web Developer Intern · *Sep 2024 – Feb 2025*
-Guided 160+ guests through a new check-in system, tested a booking system and coordinated fixes, built forms for an exhibition management system, and made interactive kiosk games for a company event.
+## 🎓 Education
 
 **Universiti Teknologi MARA, Shah Alam** · Bachelor of Information Systems (Hons.) Intelligent Systems Engineering · *Mar 2025 – present*
 
